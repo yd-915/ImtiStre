@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "userId": "Igj-hMfQa",
+      "platformId": "Igj-hMfQa123",
+      "firstName": "Claudia",
+      "lastName": "Garcia",
+      "email": "shop@missioncoffee.com",
+      "password": "$2b$10$fDU/gKP8pL5LeozB3WBodu/zJodwplgqqAk2xkMYavFGHCcJ0/IEi",
+      "avatar": "/mission_coffee_co_profile.png"
+    },
+    {
+      "userId": "RqlINFxjP",
+      "firstName": "yonis",
+      "lastName": "Dideh",
+      "email": "y.dideh@yahoo.com",
+      "password": "$2b$10$To44nxo0j.djQa.dwhfplexxd.3nBa7sQQfIfh09AhkGVTl8YEHt.",
+      "avatar": "//www.gravatar.com/avatar/0575f539786cea35bac1e21ab3c4b92c?s=400"
+    },
+    {
+      "userId": "L8mzSd90oJ",
+      "firstName": "yonis",
+      "lastName": "Dideh",
+      "email": "y.dideh@yahoo.com",
+      "password": "$2b$10$E2kYWtLjC39OMUtFCRJ7KOsNAX61D8NeYkgNCKsF/sZ.9Ku2iQg.i",
+      "avatar": "//www.gravatar.com/avatar/0575f539786cea35bac1e21ab3c4b92c?s=400"
+    },
+    {
+      "userId": "bpg8Qm2sx",
+      "firstName": "yonis",
+      "lastName": "Dideh",
+      "email": "y.dideh@yahoo.com",
+      "password": "$2b$10$WFktRDcQzXbVdQvlIsmT.eFGtocZPg3wCUaO1KDnmIj.CJ/RARVFW",
+      "avatar": "//www.gravatar.com/avatar/0575f539786cea35bac1e21ab3c4b92c?s=400"
+    }
+  ],
+  "platforms": [
+    {
+      "platformId": "Igj-hMfQa123",
+      "ownerUserId": "Igj-hMfQa",
+      "name": "Mission Coffee Co.",
+      "address": "1880 Mission St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "98104",
+      "phone": "414-208-2194",
+      "email": "shop@missioncoffee.com",
+      "slug": "mission-coffee-co",
+      "description": "Founded in 2020, Mission Coffee Co is a B corp with several competition awards in the bag, including gold in both the World Barista Championship and World Cup Tasting championships.",
+      "stripe": {
+        "stripeUserId": "acct_1GvbA9H7EIc3xp2a"
+      }
+    },
+    {
+      "platformId": "0-nQhiiKQx",
+      "ownerUserId": "RqlINFxjP",
+      "name": "firsttime",
+      "slug": "firsttime",
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "phone": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "platformId": "YgtmR0AE48",
+      "ownerUserId": "L8mzSd90oJ",
+      "name": "firsttime",
+      "slug": "firsttime",
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "phone": "",
+      "email": "",
+      "description": ""
+    },
+    {
+      "platformId": "cFL8Su9jwy",
+      "ownerUserId": "bpg8Qm2sx",
+      "name": "firsttime",
+      "slug": "firsttime",
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "phone": "",
+      "email": "",
+      "description": ""
+    }
+  ]
+}
